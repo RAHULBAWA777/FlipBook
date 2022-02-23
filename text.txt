@@ -1,0 +1,38 @@
+     INDEX~
+     1.Analogy and Classification	 1-20 <br/>
+	 2.Patterns	 21-46<br/>
+	 3.Alphabet Test	 47-62<br/>
+	 4.Coding-Decoding	 63-80<br/>
+	 5.Blood Relations	 81-96<br/>
+	 6.Direction Sense Test	 97-124<br/>
+	 7.Number, Ranking & Time Sequence Test	 125-142<br/>
+	 8.Arithmetical Reasoning	 143-158<br/>
+	 9.	Logical Venn Diagram	 159-182<br/>
+	 10.Problem Solving	 183-200<br/>
+	 11.Estimation	 201-218<br/>
+	 12.Geometrical Shapes	 219-242<br/>
+	 13.Mirror and Water Image	 243-260<br/>
+	 14.Embedded Figures	 261-272<br/>
+	 15.Visual Reasoning	 273-291  ~
+     StumentorLearning.com ~
+
+     Analogy and Classification
+     ~
+     INTRODUCTION <br/>
+     Analogy <br/>
+     In 'analogy', a pair of figures/letters/words/numbers is provided and a similar
+      relationship is followed by another pair of figures/letters/words/numbers. This
+       is also known as 'Similarity' or 'Matching pairs'.<br/>
+     Types of Analogy<br/>
+    1. Word Analogy<br/>
+    In word analogy, a group of three words is given, followed by four
+alternatives. The student is required to choose the alternative, which is
+    similar to the given group of words.<br/>
+    Example 1:
+    Astronomy : Stars : : Geology : ?<br/>
+    (a) Sky (b) Geometry (c) Science (d) Earth<br/>
+   Ans. (d)
+    ~
+     StumentorLearning.com 
+     ~
+    Screenshot (223).png~
